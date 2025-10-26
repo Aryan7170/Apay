@@ -63,6 +63,8 @@ async function connectWallet() {
       CONTRACT_ADDRESS.slice(0, 6) + "..." + CONTRACT_ADDRESS.slice(-4);
 
     showStatus("Wallet connected! ✅", "success");
+    {
+    }
 
     // Listen for account/network changes
     window.ethereum.on("accountsChanged", () => location.reload());

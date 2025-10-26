@@ -1,5 +1,7 @@
 # CryptoSplit - Decentralized Bill Splitter
 
+> Split bills with friends using Web3. Trustless. Transparent. Simple.
+
 A fully decentralized Web3 application for splitting bills with friends using cryptocurrency.
 
 ## 🚀 Features
