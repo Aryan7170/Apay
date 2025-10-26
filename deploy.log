@@ -1,0 +1,5 @@
+Error: error sending request for url (http://localhost:8545/)
+
+Context:
+- Error #0: client error (Connect)
+- Error #1: tcp connect error: Connection refused (os error 61)
