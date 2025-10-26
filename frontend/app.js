@@ -78,7 +78,8 @@ async function connectWallet() {
 }
 {
 }
-
+{
+}
 function addPerson() {
   const peopleDiv = document.getElementById("people");
   const personDiv = document.createElement("div");
