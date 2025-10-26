@@ -65,6 +65,8 @@ async function connectWallet() {
     showStatus("Wallet connected! ✅", "success");
     {
     }
+    {
+    }
 
     // Listen for account/network changes
     window.ethereum.on("accountsChanged", () => location.reload());
