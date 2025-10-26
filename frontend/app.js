@@ -76,6 +76,8 @@ async function connectWallet() {
     showStatus("Failed to connect wallet", "error");
   }
 }
+{
+}
 
 function addPerson() {
   const peopleDiv = document.getElementById("people");
